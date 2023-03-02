@@ -1,2 +1,1 @@
-```markdown
-!INCLUDE "README.md"
+This is sample content
